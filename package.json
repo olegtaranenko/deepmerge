@@ -1,6 +1,6 @@
 {
 	"name": "deepmerge",
-	"version": "4.2.2",
+	"version": "5.0.0",
 	"description": "A library for deep (recursive) merging of Javascript objects",
 	"keywords": [
 		"merge",
